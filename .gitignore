@@ -1,0 +1,4 @@
+.pytest_cache
+.venv
+image_classifier_inceptionv3_model.h5
+image_classifier_inceptionv3_model.keras
